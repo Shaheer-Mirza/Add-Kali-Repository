@@ -10,4 +10,5 @@ sudo chmod +x Add-Kali-Repository.sh
 sudo chmod +x Add-Parrot-Repository.sh
 sudo bash Add-Kali-Repository.sh
 sudo bash Add-Parrot-Repository.sh
+sudo apt update
 ```
