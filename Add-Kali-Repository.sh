@@ -6,7 +6,7 @@ deb http://http.kali.org/kali kali-rolling main contrib non-free
 
 # Additional line for source packages
 # deb-src http://http.kali.org/kali kali-rolling main contrib non-free" |
-  sudo tee /etc/apt/sources.list.d/kali.list
+  sudo tee /etc/apt/sources.list
   
 
 
