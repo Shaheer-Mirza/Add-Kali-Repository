@@ -1,7 +1,10 @@
 #!/bin/bash
 
 
-printf '%s\n' "# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
+printf '%s\n' "deb https://kali.download/kali/ kali-rolling main contrib non-free
+
+
+# See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
 deb http://http.kali.org/kali kali-rolling main contrib non-free
 
 # Additional line for source packages
